@@ -1,0 +1,4 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+categorie		NFI		nouveau fichier
+type		NFI		nouveau fichier
+emplacement		NFI		nouveau fichier
