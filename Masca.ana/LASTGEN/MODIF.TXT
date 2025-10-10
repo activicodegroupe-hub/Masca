@@ -1,17 +1,1 @@
-//MO003-004.TXT ANA00003 TO ANA00004
-livre		TAR	356	nouvelle taille enregistrement : 356
-livre	IDcategorie	RUB+		IDcategorie est une nouvelle clé
-livre	IDtype	RUB+		IDtype est une nouvelle clé
-livre	IDemplacement	RUB+		IDemplacement est une nouvelle clé
-livre	IDlangue	RUB+		IDlangue est une nouvelle clé
-livre	id_categorie	RUB-		la rubrique id_categorie est supprimée
-livre	id_emplacement	RUB-		la rubrique id_emplacement est supprimée
-livre	id_langue	RUB-		la rubrique id_langue est supprimée
-livre	id_emprunt	RUB-		la rubrique id_emprunt est supprimée
-Contrainte_livre_categorie		NWL	categorie (IDcategorie) et livre (IDcategorie)	Nouvelle liaison entre les fichiers categorie (IDcategorie) et livre (IDcategorie)
-Contrainte_livre_type		NWL	type (IDtype) et livre (IDtype)	Nouvelle liaison entre les fichiers type (IDtype) et livre (IDtype)
-Contrainte_livre_emplacement		NWL	emplacement (IDemplacement) et livre (IDemplacement)	Nouvelle liaison entre les fichiers emplacement (IDemplacement) et livre (IDemplacement)
-Contrainte_livre_emprunt		NWL	livre (IDlivre) et emprunt (IDlivre)	Nouvelle liaison entre les fichiers livre (IDlivre) et emprunt (IDlivre)
-Contrainte_emprunt_membre		NWL	membre (IDmembre) et emprunt (IDmembre)	Nouvelle liaison entre les fichiers membre (IDmembre) et emprunt (IDmembre)
-Contrainte_emprunt_utilisateur		NWL	utilisateur (IDutilisateur) et emprunt (IDutilisateur)	Nouvelle liaison entre les fichiers utilisateur (IDutilisateur) et emprunt (IDutilisateur)
-Contrainte_livre_langue		NWL	langue (IDlangue) et livre (IDlangue)	Nouvelle liaison entre les fichiers langue (IDlangue) et livre (IDlangue)
+//MO004-005.TXT ANA00004 TO ANA00005
