@@ -1,5 +1,5 @@
-//MO005-006.TXT ANA00005 TO ANA00006
-livre		TAR	348	nouvelle taille enregistrement : 348
-livre	IDtype	RUB-		la rubrique IDtype est supprimée
-type		FIC-	type	Fichier supprimé type
-Contrainte_livre_type		DEL	type (IDtype) et livre (IDtype)	Liaison supprimée entre les fichiers type (IDtype) et livre (IDtype)
+//MO007-008.TXT ANA00007 TO ANA00008
+membre		TAR	248	nouvelle taille enregistrement : 248
+membre	IDmembre1	RUB+		IDmembre1 est une nouvelle clé
+SurPlace		NFI		nouveau fichier
+Contrainte_SurPlace_membre		NWL	SurPlace (IDmembre) et membre (IDmembre1)	Nouvelle liaison entre les fichiers SurPlace (IDmembre) et membre (IDmembre1)
