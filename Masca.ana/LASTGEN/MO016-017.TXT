@@ -1,0 +1,14 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+emprunt		TAR	46	nouvelle taille enregistrement : 46
+emprunt	matricule	RUB+		matricule est une nouvelle clé
+emprunt	IDmembre	RUB-		la rubrique IDmembre est supprimée
+emprunt	IDutilisateur	RUB-		la rubrique IDutilisateur est supprimée
+livre_emprunt		NFI		nouveau fichier
+membre_emprunt		NFI		nouveau fichier
+Contrainte_emprunt_livre		NWL	emprunt (matricule) et livre_emprunt (Matricule)	Nouvelle liaison entre les fichiers emprunt (matricule) et livre_emprunt (Matricule)
+Contrainte_membre_emprunt		NWL	membre (IDmembre) et membre_emprunt (IDmembre)	Nouvelle liaison entre les fichiers membre (IDmembre) et membre_emprunt (IDmembre)
+Contrainte_livre_emprunt		NWL	livre (IDlivre) et livre_emprunt (IDlivre)	Nouvelle liaison entre les fichiers livre (IDlivre) et livre_emprunt (IDlivre)
+Contrainte_emprunt_membre		NWL	emprunt (matricule) et membre_emprunt (Matricule)	Nouvelle liaison entre les fichiers emprunt (matricule) et membre_emprunt (Matricule)
+Contrainte_livre_emprunt		DEL	livre (IDlivre) et emprunt (IDlivre)	Liaison supprimée entre les fichiers livre (IDlivre) et emprunt (IDlivre)
+Contrainte_emprunt_membre		DEL	membre (IDmembre) et emprunt (IDmembre)	Liaison supprimée entre les fichiers membre (IDmembre) et emprunt (IDmembre)
+Contrainte_emprunt_utilisateur		DEL	utilisateur (IDutilisateur) et emprunt (IDutilisateur)	Liaison supprimée entre les fichiers utilisateur (IDutilisateur) et emprunt (IDutilisateur)

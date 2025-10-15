@@ -1,0 +1,7 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+membre		TAR	258	nouvelle taille enregistrement : 258
+membre	matricule	RUB+		matricule est une nouvelle rubrique
+membre	tel	RUB+		tel est une nouvelle rubrique
+membre	nationalité	RUB+		nationalité est une nouvelle rubrique
+membre	Matricule	RUB-		la rubrique Matricule est supprimée
+Contrainte_SurPlace_membre		DEL	SurPlace (IDmembre) et membre (Matricule)	Liaison supprimée entre les fichiers SurPlace (IDmembre) et membre (Matricule)

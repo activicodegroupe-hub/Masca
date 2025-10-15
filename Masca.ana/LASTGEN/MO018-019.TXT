@@ -1,0 +1,3 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+membre_livre	Emprunt	RUB+		Emprunt est une nouvelle rubrique
+membre_livre	adresse	RUB-		la rubrique adresse est supprimée

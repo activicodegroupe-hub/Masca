@@ -1,0 +1,3 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+membre_livre		TAR	158	nouvelle taille enregistrement : 158
+membre_livre	Emprunt	CNW	Date (aaaammjj)$Chaîne	la rubrique Emprunt a pour nouveau type Date (aaaammjj)

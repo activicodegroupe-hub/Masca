@@ -1,5 +1,1 @@
-//MO007-008.TXT ANA00007 TO ANA00008
-membre		TAR	248	nouvelle taille enregistrement : 248
-membre	IDmembre1	RUB+		IDmembre1 est une nouvelle clé
-SurPlace		NFI		nouveau fichier
-Contrainte_SurPlace_membre		NWL	SurPlace (IDmembre) et membre (IDmembre1)	Nouvelle liaison entre les fichiers SurPlace (IDmembre) et membre (IDmembre1)
+//MO028-029.TXT ANA00028 TO ANA00029

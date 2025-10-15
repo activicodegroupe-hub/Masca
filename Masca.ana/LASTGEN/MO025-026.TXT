@@ -1,0 +1,3 @@
+//MO025-026.TXT ANA00025 TO ANA00026
+Emprunt		TAR	188	nouvelle taille enregistrement : 188
+Emprunt	IDemprunt	RUB+		IDemprunt est une nouvelle clé

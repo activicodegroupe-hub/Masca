@@ -1,0 +1,4 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+membre		TAR	256	nouvelle taille enregistrement : 256
+membre	Matricule	NNR	IDmembre1	ATTENTION : la clé IDmembre1 a pour nouveau nom Matricule
+membre	CNI	RUB+		CNI est une nouvelle rubrique

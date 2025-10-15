@@ -1,0 +1,7 @@
+//MO014-015.TXT ANA00014 TO ANA00015
+membre		TAR	273	nouvelle taille enregistrement : 273
+membre	IDSurPlace	RUB+		IDSurPlace est une nouvelle clé
+SurPlace		TAR	848	nouvelle taille enregistrement : 848
+SurPlace	matricule	RUB+		matricule est une nouvelle rubrique
+SurPlace	IDmembre	RUB-		la rubrique IDmembre est supprimée
+Contrainte_SurPlace_membre		NWL	SurPlace (IDSurPlace) et membre (IDSurPlace)	Nouvelle liaison entre les fichiers SurPlace (IDSurPlace) et membre (IDSurPlace)

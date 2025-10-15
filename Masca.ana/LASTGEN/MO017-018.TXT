@@ -1,0 +1,11 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+membre_livre		NFI		nouveau fichier
+emprunt		FIC-	emprunt	Fichier supprimé emprunt
+livre_emprunt		FIC-	livre_emprunt	Fichier supprimé livre_emprunt
+membre_emprunt		FIC-	membre_emprunt	Fichier supprimé membre_emprunt
+Contrainte_livre_membre		NWL	livre (IDlivre) et membre_livre (IDlivre)	Nouvelle liaison entre les fichiers livre (IDlivre) et membre_livre (IDlivre)
+Contrainte_membre_livre		NWL	membre (IDmembre) et membre_livre (IDmembre)	Nouvelle liaison entre les fichiers membre (IDmembre) et membre_livre (IDmembre)
+Contrainte_emprunt_livre		DEL	emprunt (matricule) et livre_emprunt (Matricule)	Liaison supprimée entre les fichiers emprunt (matricule) et livre_emprunt (Matricule)
+Contrainte_membre_emprunt		DEL	membre (IDmembre) et membre_emprunt (IDmembre)	Liaison supprimée entre les fichiers membre (IDmembre) et membre_emprunt (IDmembre)
+Contrainte_livre_emprunt		DEL	livre (IDlivre) et livre_emprunt (IDlivre)	Liaison supprimée entre les fichiers livre (IDlivre) et livre_emprunt (IDlivre)
+Contrainte_emprunt_membre		DEL	emprunt (matricule) et membre_emprunt (Matricule)	Liaison supprimée entre les fichiers emprunt (matricule) et membre_emprunt (Matricule)

@@ -1,0 +1,10 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+Emprunt		NNF*	membre_livre	nouveau nom Emprunt
+Emprunt		TAR	183	nouvelle taille enregistrement : 183
+Emprunt	IDlivre	RUB-		la rubrique IDlivre est supprimée
+Emprunt	IDmembre	RUB-		la rubrique IDmembre est supprimée
+Emprunt	IDmembre_IDlivre	RUB-		la rubrique IDmembre_IDlivre est supprimée
+Contrainte_livre_membre		DEL	livre (IDlivre) et membre_livre (IDlivre)	Liaison supprimée entre les fichiers livre (IDlivre) et membre_livre (IDlivre)
+Contrainte_membre_livre		DEL	membre (IDmembre) et membre_livre (IDmembre)	Liaison supprimée entre les fichiers membre (IDmembre) et membre_livre (IDmembre)
+Emprunt		FRN		
+Emprunt	Statut	RRN		

@@ -1,0 +1,3 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+membre		TAR	271	nouvelle taille enregistrement : 271
+membre	matricule	CNW	Entier non signé sur 2 octets$Entier sur 4 octets	la rubrique matricule a pour nouveau type Entier non signé sur 2 octets
