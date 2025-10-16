@@ -1,1 +1,2 @@
-//MO028-029.TXT ANA00028 TO ANA00029
+//MO029-030.TXT ANA00029 TO ANA00030
+livre	titre	CLEN*		la rubrique titre est maintenant une clé

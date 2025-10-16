@@ -1,0 +1,3 @@
+//MO030-031.TXT ANA00030 TO ANA00031
+livre		TAR	258	nouvelle taille enregistrement : 258
+livre	nombre	CNW	Entier sur 4 octets$Chaîne	la rubrique nombre a pour nouveau type Entier sur 4 octets
